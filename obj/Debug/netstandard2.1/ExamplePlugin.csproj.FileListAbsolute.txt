@@ -1,0 +1,10 @@
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.deps.json
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.dll
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.pdb
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.csproj.AssemblyReference.cache
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.AssemblyInfoInputs.cache
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.AssemblyInfo.cs
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.dll
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.pdb

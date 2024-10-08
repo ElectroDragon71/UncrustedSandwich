@@ -1,0 +1,20 @@
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.1\UncrustedSandwich.deps.json
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.1\UncrustedSandwich.dll
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.1\UncrustedSandwich.pdb
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\UncrustedSandwich.csproj.AssemblyReference.cache
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\UncrustedSandwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\UncrustedSandwich.AssemblyInfoInputs.cache
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\UncrustedSandwich.AssemblyInfo.cs
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\UncrustedSandwich.csproj.CoreCompileInputs.cache
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\UncrustedSandwich.dll
+C:\Users\jcli5\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.1\UncrustedSandwich.pdb
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\bin\Debug\netstandard2.1\UncrustedSandwich.deps.json
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\bin\Debug\netstandard2.1\UncrustedSandwich.dll
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\bin\Debug\netstandard2.1\UncrustedSandwich.pdb
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.csproj.AssemblyReference.cache
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.AssemblyInfoInputs.cache
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.AssemblyInfo.cs
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.csproj.CoreCompileInputs.cache
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.dll
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.pdb
