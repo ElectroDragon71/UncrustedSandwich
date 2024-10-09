@@ -18,3 +18,4 @@ C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\n
 C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.csproj.CoreCompileInputs.cache
 C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.dll
 C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.pdb
+C:\Users\jcli5\Desktop\RoR2 Mods\UncrustedSandwich\UncrustedSandwich\obj\Debug\netstandard2.1\UncrustedSandwich.sourcelink.json
