@@ -56,15 +56,19 @@ namespace UncrustedSandwich
             // Define item
             uncrustedSandwich = ScriptableObject.CreateInstance<ItemDef>();
 
-            // Language Tokens
-            uncrustedSandwich.name = "SANDWICH_NAME";
-            uncrustedSandwich.nameToken = "SANDWICH_NAME";
-            uncrustedSandwich.pickupToken = "SANDWICH_PICKUP";
-            uncrustedSandwich.descriptionToken = "SANDWICH_DESC";
-            uncrustedSandwich.loreToken = "SANDWICH_LORE";
+            string itemDesc = "Uncrustable Uncrustable Uncrustable Uncrustable Uncrustable Uncrustable Uncrustable Uncrustable";
+            string itemName = "Uncrusted Sandwich";
+            string itemLore = "gamerH0ST brainrot";
 
             if (UncrustedSandwichConfig.ReworkType.Value == 0)
             {
+
+                // Language Tokens
+                uncrustedSandwich.name = "SANDWICH_NAME";
+                uncrustedSandwich.nameToken = "SANDWICH_NAME";
+                uncrustedSandwich.pickupToken = "SANDWICH_PICKUP";
+                uncrustedSandwich.descriptionToken = "SANDWICH_DESC";
+                uncrustedSandwich.loreToken = "SANDWICH_LORE";
 
                 // The tier determines what rarity the item is:
                 // Tier1=white, Tier2=green, Tier3=red, Lunar=Lunar, Boss=yellow,
@@ -81,7 +85,7 @@ namespace UncrustedSandwich
                     var bundle = AssetBundle.LoadFromStream(stream);
 
                     uncrustedSandwich.pickupModelPrefab = bundle.LoadAsset<GameObject>("Assets/Import/sandwich/sandwich.prefab");
-                    uncrustedSandwich.pickupIconSprite = bundle.LoadAsset<Sprite>("Assets/Import/sandwich_icon/sandwich_icon.png");
+                    uncrustedSandwich.pickupIconSprite = bundle.LoadAsset<Sprite>("Assets/Import/sandwich_icon/uncrustable_lunar.png");
                 }
 
                 ItemAPI.ApplyTagToItem("Any", uncrustedSandwich);
@@ -96,6 +100,7 @@ namespace UncrustedSandwich
                 // Then finally add it to R2API
                 ItemAPI.Add(new CustomItem(uncrustedSandwich, displayRules));
             }
+
             if (UncrustedSandwichConfig.ReworkType.Value == 1)
             {
                 uncrustedSandwich = Addressables.LoadAssetAsync<ItemDef>("RoR2/Base/FlatHealth/FlatHealth.asset").WaitForCompletion();
@@ -106,8 +111,15 @@ namespace UncrustedSandwich
                     var bundle = AssetBundle.LoadFromStream(stream);
 
                     uncrustedSandwich.pickupModelPrefab = bundle.LoadAsset<GameObject>("Assets/Import/sandwich/sandwich.prefab");
-                    uncrustedSandwich.pickupIconSprite = bundle.LoadAsset<Sprite>("Assets/Import/sandwich_icon/sandwich_icon.png");
+                    uncrustedSandwich.pickupIconSprite = bundle.LoadAsset<Sprite>("Assets/Import/sandwich_icon/uncrustable_common.png");
                 }
+
+
+                LanguageAPI.Add("ITEM_FLATHEALTH_PICKUP", itemDesc);
+                LanguageAPI.Add("ITEM_FLATHEALTH_DESC", itemDesc);
+                LanguageAPI.Add("ITEM_FLATHEALTH_NAME", itemName);
+                LanguageAPI.Add("ITEM_FLATHEALTH_LORE", itemLore);
+
             }
 
             // Add Effects

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UncrustedSandwich")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+050f45fba00f75c2a8aff3bd9b271521305ee2ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e38c7d0f7e959a133e259ec789fd562862fb19a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UncrustedSandwich")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UncrustedSandwich")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
