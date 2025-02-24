@@ -13,8 +13,8 @@ namespace UncrustedSandwich
                 "Uncrusted Sandwich",
                 "Toggle Rework", 1,
                 new ConfigDescription(
-                    "[ 0 = Lunar | 1 = Replace Bison Steak ]",
-                    new AcceptableValueRange<int>(0, 1)
+                    "[ 0 = Lunar | 1 = Replace Bison Steak | 2 = Replace Bison Steak w/ No Additional Effects]",
+                    new AcceptableValueRange<int>(0, 2)
                 )
             );
         }

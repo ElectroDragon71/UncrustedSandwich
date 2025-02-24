@@ -41,7 +41,7 @@ namespace UncrustedSandwich
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "Egglectro";
         public const string PluginName = "UncrustedSandwich";
-        public const string PluginVersion = "1.0.6";
+        public const string PluginVersion = "1.0.7";
 
         // We need our item definition to persist through our functions, and therefore make it a class field.
         private static ItemDef uncrustedSandwich;
@@ -101,7 +101,7 @@ namespace UncrustedSandwich
                 ItemAPI.Add(new CustomItem(uncrustedSandwich, displayRules));
             }
 
-            if (UncrustedSandwichConfig.ReworkType.Value == 1)
+            if (UncrustedSandwichConfig.ReworkType.Value >= 1)
             {
                 uncrustedSandwich = Addressables.LoadAssetAsync<ItemDef>("RoR2/Base/FlatHealth/FlatHealth.asset").WaitForCompletion();
 
@@ -123,7 +123,10 @@ namespace UncrustedSandwich
             }
 
             // Add Effects
-            On.RoR2.CharacterBody.OnInventoryChanged += UncrustableEffect;
+            if (UncrustedSandwichConfig.ReworkType.Value != 2)
+            {
+                On.RoR2.CharacterBody.OnInventoryChanged += UncrustableEffect;
+            }
         }
 
         // Uncrustable Effect
